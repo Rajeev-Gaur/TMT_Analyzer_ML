@@ -1,0 +1,26 @@
+ # Python cache files
+__pycache__/
+*.pyc
+
+# Virtual environment folder
+.venv/
+
+# Output folder for results
+output/
+
+# Model files
+*.pkl
+
+# Dataset files
+*.csv
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Other IDE-specific files (if applicable)
+*.vscode/
+*.idea/
+
+# Configuration file
+config.py
+
